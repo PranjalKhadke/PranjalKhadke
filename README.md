@@ -7,12 +7,6 @@
 
 <br/>
 
-<a href="https://github.com/PranjalKhadke">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Undergraduate;Passionate+about+Artificial+Intelligence+%26+ML;Building+Practical+Software+%26+Intelligent+Systems;Exploring+Data+Structures%2C+Algorithms+%26+Design;Committed+to+Continuous+Learning+%26+Engineering" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 [![Email](https://img.shields.io/badge/Email-Pranjalckhadke%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Pranjalckhadke@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PranjalKhadke-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranjalKhadke)
 [![Institution](https://img.shields.io/badge/Institution-Ramdeobaba_University-0284c7?style=flat-square)](https://www.rknec.edu/)
