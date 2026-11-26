@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-Pranjalckhadke%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Pranjalckhadke@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PranjalKhadke-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranjalKhadke)
 [![Institution](https://img.shields.io/badge/Institution-Ramdeobaba_University-0284c7?style=flat-square)](https://www.rknec.edu/)
-[![Course](https://img.shields.io/badge/Course-CSE_&_AIML_Honors-7c3aed?style=flat-square)](#academic-background)
+[![Degree](https://img.shields.io/badge/Degree-B.Tech_CSE-7c3aed?style=flat-square)](#academic-background)
 
 </div>
 
@@ -107,8 +107,7 @@ Computer Science & Artificial Intelligence
 ### Academic Background
 
 **Bachelor of Technology (B.Tech) &bull; Computer Science and Engineering**  
-*Ramdeobaba University (RBU), Nagpur, Maharashtra, India*  
-*Specialization Focus: Artificial Intelligence & Machine Learning Honors*
+*Ramdeobaba University (RBU), Nagpur, Maharashtra, India*
 
 ---
 
