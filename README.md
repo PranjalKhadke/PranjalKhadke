@@ -110,59 +110,6 @@ Computer Science & Artificial Intelligence
 
 ---
 
-### Featured Repositories & Academic Work
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Repository / Project</th>
-      <th align="left">Architecture & Highlights</th>
-      <th align="left">Key Tech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <strong><a href="https://github.com/PranjalKhadke/AIML-HONOR">AIML-HONOR</a></strong><br/>
-        <em>Academic Lab Suite & Class Practicals</em>
-      </td>
-      <td>
-        Curated engineering implementations for Semester III AIML Honors coursework:
-        <ul>
-          <li><strong>Multi-Gateway Payment Engine:</strong> Extensible Factory Method architecture supporting Razorpay, Stripe, and Paytm with polymorphic validation.</li>
-          <li><strong>Relational SQLite CRUD:</strong> ACID-compliant transaction handling, schema migration, and aggregate department queries.</li>
-          <li><strong>Workforce Analytics:</strong> Vectorized data manipulation, boolean masking, and summary metrics using Pandas.</li>
-          <li><strong>Function Decorators:</strong> Microsecond benchmarking, telemetry logging, and decorator stacking.</li>
-          <li><strong>Class Practical Labs:</strong> Pandas reshaping (<code>melt</code>, <code>pivot_table</code>) and NumPy tensor manipulations.</li>
-        </ul>
-      </td>
-      <td>
-        <code>Python 3</code><br/>
-        <code>Pandas</code><br/>
-        <code>NumPy</code><br/>
-        <code>SQLite</code><br/>
-        <code>Jupyter</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Software & AI Projects</strong><br/>
-        <em>In Development</em>
-      </td>
-      <td>
-        Developing practical applications focusing on software automation, data processing pipelines, and intelligent tools to solve real-world problems.
-      </td>
-      <td>
-        <code>Python</code><br/>
-        <code>AI / ML</code><br/>
-        <code>Git</code>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ### Academic Background
 
 **Bachelor of Technology (B.Tech) &bull; Computer Science and Engineering**  
