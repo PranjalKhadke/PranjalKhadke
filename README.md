@@ -2,110 +2,203 @@
 
 # Pranjal Khadke
 
-### Computer Science & Engineering Undergraduate | Artificial Intelligence | Software Development
+**Computer Science & Engineering Undergraduate &bull; Artificial Intelligence &bull; Software Engineering**  
+*Ramdeobaba University, Nagpur, Maharashtra, India*
 
-*B.Tech Student at Ramdeobaba University, Nagpur, India*
+<br/>
+
+<a href="https://github.com/PranjalKhadke">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Undergraduate;Passionate+about+Artificial+Intelligence+%26+ML;Building+Practical+Software+%26+Intelligent+Systems;Exploring+Data+Structures%2C+Algorithms+%26+Design;Committed+to+Continuous+Learning+%26+Engineering" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-Pranjalckhadke%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Pranjalckhadke@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PranjalKhadke-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PranjalKhadke)
+[![Institution](https://img.shields.io/badge/Institution-Ramdeobaba_University-0284c7?style=flat-square)](https://www.rknec.edu/)
+[![Course](https://img.shields.io/badge/Course-CSE_&_AIML_Honors-7c3aed?style=flat-square)](#academic-background)
+
+</div>
+
+---
+
+### Executive Overview
+
+I am a second-year B.Tech **Computer Science & Engineering** student at **Ramdeobaba University**, Nagpur. My academic and engineering focus centers on software engineering, artificial intelligence, and building scalable, reliable applications.
+
+- **Computer Science Core:** Actively advancing knowledge in Data Structures & Algorithms, Object-Oriented System Design, Operating Systems, and Database Management Systems.
+- **Artificial Intelligence & Data:** Hands-on experience in data manipulation, vectorization, and machine learning workflows using Python, Pandas, and NumPy.
+- **Engineering Philosophy:** Focused on writing modular, well-tested, and maintainable code that solves real-world operational problems.
+
+---
+
+### Technical Arsenal
+
+<table>
+  <tr>
+    <td width="26%"><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & Data Science</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Generative_AI-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Persistence</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/Relational_SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Relational SQL" />
+      <img src="https://img.shields.io/badge/Flat_File_CSV-4B5563?style=flat-square" alt="Flat File CSV" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Developer Tools & OS</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Unix_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Unix Shell" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Core Computer Science</strong></td>
+    <td>
+      <code>Data Structures & Algorithms</code> &bull; 
+      <code>Object-Oriented Design (OOP)</code> &bull; 
+      <code>Database Management Systems (DBMS)</code> &bull; 
+      <code>Operating Systems</code> &bull; 
+      <code>Computer Networks</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Technical Focus & Engineering Roadmap
+
+```text
+Computer Science & Artificial Intelligence
+│
+├── Core Foundations
+│   ├── Data Structures & Algorithms (Linear & Non-linear data modeling)
+│   ├── Object-Oriented Design (Polymorphism, Factory Patterns, Clean Architecture)
+│   ├── Database Management Systems (Relational Schema Design & ACID compliance)
+│   └── Operating Systems & Shell Tooling
+│
+├── Artificial Intelligence & Data Engineering
+│   ├── Machine Learning Principles & Model Pipelines
+│   ├── High-Performance Vectorized Analytics (Pandas & NumPy)
+│   ├── Data Transformation, Reshaping & Aggregations
+│   └── Explorations in Generative AI & Automation
+│
+└── Systems & Software Development
+    ├── Modular CLI & Service Architectures
+    ├── Flat-File & Embedded Database Persistence (CSV, SQLite)
+    ├── Metaprogramming, Introspection & Custom Decorators
+    └── Version Control, Branch Management & Git Workflows
+```
+
+---
+
+### Featured Repositories & Academic Work
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Repository / Project</th>
+      <th align="left">Architecture & Highlights</th>
+      <th align="left">Key Tech</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong><a href="https://github.com/PranjalKhadke/AIML-HONOR">AIML-HONOR</a></strong><br/>
+        <em>Academic Lab Suite & Class Practicals</em>
+      </td>
+      <td>
+        Curated engineering implementations for Semester III AIML Honors coursework:
+        <ul>
+          <li><strong>Multi-Gateway Payment Engine:</strong> Extensible Factory Method architecture supporting Razorpay, Stripe, and Paytm with polymorphic validation.</li>
+          <li><strong>Relational SQLite CRUD:</strong> ACID-compliant transaction handling, schema migration, and aggregate department queries.</li>
+          <li><strong>Workforce Analytics:</strong> Vectorized data manipulation, boolean masking, and summary metrics using Pandas.</li>
+          <li><strong>Function Decorators:</strong> Microsecond benchmarking, telemetry logging, and decorator stacking.</li>
+          <li><strong>Class Practical Labs:</strong> Pandas reshaping (<code>melt</code>, <code>pivot_table</code>) and NumPy tensor manipulations.</li>
+        </ul>
+      </td>
+      <td>
+        <code>Python 3</code><br/>
+        <code>Pandas</code><br/>
+        <code>NumPy</code><br/>
+        <code>SQLite</code><br/>
+        <code>Jupyter</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Software & AI Projects</strong><br/>
+        <em>In Development</em>
+      </td>
+      <td>
+        Developing practical applications focusing on software automation, data processing pipelines, and intelligent tools to solve real-world problems.
+      </td>
+      <td>
+        <code>Python</code><br/>
+        <code>AI / ML</code><br/>
+        <code>Git</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Academic Background
+
+**Bachelor of Technology (B.Tech) &bull; Computer Science and Engineering**  
+*Ramdeobaba University (RBU), Nagpur, Maharashtra, India*  
+*Specialization Focus: Artificial Intelligence & Machine Learning Honors*
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranjalKhadke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pranjal's GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=PranjalKhadke&theme=tokyonight&hide_border=true" alt="Pranjal's GitHub Streak" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalKhadke&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</div>
+
+---
+
+### Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=20&pause=1500&color=808080&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Interested+in+Artificial+Intelligence;Exploring+Software+Engineering;Learning+and+Building+Every+Day" alt="Introduction" />
+  <a href="mailto:Pranjalckhadke@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Pranjalckhadke%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/PranjalKhadke">
+    <img src="https://img.shields.io/badge/GitHub-PranjalKhadke-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-</div>
-
----
-
-## About
-
-I am a second-year B.Tech Computer Science and Engineering student at Ramdeobaba University, Nagpur, India.
-
-I am interested in software engineering, artificial intelligence, and emerging technologies. I enjoy solving problems, exploring new concepts, and developing practical applications through programming.
-
-My current focus is on strengthening computer science fundamentals, improving programming skills, and gaining hands-on experience through projects.
-
----
-
-## Areas of Interest
-
-- Artificial Intelligence and Machine Learning
-- Generative AI
-- Software Engineering
-- Data Structures and Algorithms
-- Computer Vision
-- Full-Stack Development
-- Intelligent Systems
-
----
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- Java
-- C
-
-### Core Computer Science
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- Database Management Systems
-
-### AI & Development
-- Machine Learning Fundamentals
-- Generative AI
-- Prompt Engineering
-
-### Tools
-- Git
-- GitHub
-- Visual Studio Code
-- Jupyter Notebook
-
----
-
-## Current Focus
-
-- Strengthening programming and problem-solving skills.
-- Learning Artificial Intelligence and Machine Learning.
-- Exploring software development and modern technologies.
-- Building practical projects.
-- Improving understanding of computer science fundamentals.
-
----
-
-## Projects
-
-Working on practical projects involving software development, artificial intelligence, automation, and real-world problem solving.
-
-- **[AIML-HONOR](https://github.com/PranjalKhadke/AIML-HONOR):** Laboratory coursework implementations covering multi-gateway payment architecture, file-based CSV management, relational SQLite database systems, Pandas data analytics, and Python function metaprogramming.
-
----
-
-## Education
-
-**Bachelor of Technology (B.Tech)**  
-Computer Science and Engineering  
-Ramdeobaba University, Nagpur, Maharashtra, India  
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PranjalKhadke&show_icons=true&theme=default&hide_border=true" alt="GitHub Statistics" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalKhadke&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-## Contact
-
-- **Email:** [pranjalckhadke@gmail.com](mailto:pranjalckhadke@gmail.com)
-- **GitHub:** [github.com/PranjalKhadke](https://github.com/PranjalKhadke)
-
----
-
-<div align="center">
-  <i>Focused on continuous learning and building meaningful technology.</i>
-</div>
+<p align="center">
+  <em>"Focused on continuous learning, disciplined engineering, and building meaningful technology."</em>
+</p>
